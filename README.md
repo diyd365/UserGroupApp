@@ -1,7 +1,7 @@
 # UserGroupApp
 PowerApps and Flow User Group App
 This app allows you to do the following:
-Regsiter members
+Register members
 Check In attendees
 Update details of members
 Draw Raffle
